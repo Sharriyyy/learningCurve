@@ -69,7 +69,7 @@ header {
 
 @media (max-width: 650px) {
   .logo {
-    margin-top: 15px;
+    margin-top: 16px;
     width: 100%;
     position: relative;
   }
